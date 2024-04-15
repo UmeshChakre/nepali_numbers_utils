@@ -1,5 +1,5 @@
 name: numbers_to_nepali_word_converter
-description: A starting point for Dart libraries or applications.
+description: A Number to Nepali Word Converter Package
 version: 1.0.0
 repository: https://github.com/UmeshChakre/nepali_numbers_utils
 homepage: https://github.com/UmeshChakre
